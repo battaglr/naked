@@ -1,7 +1,6 @@
 # Naked
 
-— Is this yet another boilerplate to start web apps from scratch?
-— Yes, it is.
+Yet another boilerplate to start web apps from scratch.
 
 ## What I'm looking at?
 
@@ -16,7 +15,7 @@ to main CSS and JavaScript files.
 
 4. A basic file structure.
 
-```txt
+```
 ./
 ├── app/
 │   ├── assets/
