@@ -2,9 +2,9 @@
 
 Yet another boilerplate to start web apps from scratch.
 
-## What I'm looking at?
+## What I’m looking at?
 
-Nothing that you haven't seen before, really.
+Nothing that you haven’t seen before, really.
 
 1. An HTML file with just the doctype, a couple of meta tags and references
 to main CSS and JavaScript files.
@@ -35,11 +35,11 @@ to main CSS and JavaScript files.
 └── dist/
 ```
 
-## That's all!?
+## That’s all!?
 
 Yep.
 
 ## License
 
-I don't care about legal stuff nor attribution. Do whatever you want with this,
-it's public domain.
+I don’t care about legal stuff nor attribution. Do whatever you want with this,
+it’s public domain.
