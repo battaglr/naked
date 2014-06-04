@@ -41,5 +41,5 @@ Yep.
 
 ## License
 
-I don’t care about legal stuff nor attribution. Do whatever you want with this,
+I don’t care about legal stuff or attribution. Do whatever you want with this,
 it’s public domain.
