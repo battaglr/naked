@@ -17,7 +17,7 @@ to main CSS and JavaScript files.
 
 ```
 ./
-├── app/
+├── src/
 │   ├── assets/
 │   │   ├── fonts/
 │   │   ├── icons/
