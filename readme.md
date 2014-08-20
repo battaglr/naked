@@ -41,5 +41,4 @@ Yep.
 
 ## License
 
-I don’t care about legal stuff or attribution. Do whatever you want with this,
-it’s public domain.
+Released under the MIT license.
