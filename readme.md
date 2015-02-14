@@ -1,6 +1,6 @@
 # Naked
 
-Yet another boilerplate to start web apps from scratch.
+A modest boilerplate in birthday suit.
 
 ## What I’m looking at?
 
