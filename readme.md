@@ -41,4 +41,4 @@ Yep.
 
 ## License
 
-Released under the MIT license.
+Released under the [MIT license](license.md).
