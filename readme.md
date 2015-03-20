@@ -1,6 +1,6 @@
 # Naked
 
-A modest boilerplate in birthday suit.
+A minimal boilerplate in birthday suit.
 
 ## What I’m looking at?
 
